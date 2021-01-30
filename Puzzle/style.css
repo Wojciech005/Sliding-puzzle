@@ -13,10 +13,10 @@ body {
 h1 {
     text-align: center;
     margin: 40px auto;
-    background-color: yellow;
+    background-color: rgb(236, 236, 18);
     width: 400px;
     border-radius: 16px;
-    padding: 10px;
+    padding: 12px;
 }
 #game-board {
     margin: 100px auto;
